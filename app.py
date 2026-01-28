@@ -137,6 +137,7 @@ if not st.session_state.login:
     Azza Ellasari Umayro (24.83.1106)<br>
     Dina Ayu Safitri (24.83.1070)<br>
     Sri Irsa Ramayani (24.83.1055)<br>
+    Nayla Rachmddina (24.83.1099)<br>
     Academic Project — Pemrograman Dasar & Python
     </div>
     """, unsafe_allow_html=True)
